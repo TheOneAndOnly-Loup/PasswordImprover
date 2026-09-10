@@ -1,6 +1,6 @@
 # PasswordImprover
 
-A simple Password evaluator, generator and improver.
+A simple python password evaluator, generator and improver.
 
 Option 1: 
 Tests your password and gives it a score out of 100:
